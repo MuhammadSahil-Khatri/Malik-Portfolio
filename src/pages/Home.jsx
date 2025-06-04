@@ -6,7 +6,6 @@ import MehranImage from "../assets/MehranImage.jpg";
 import ProjectsSection from "../Components/ProjectSection";
 import Footer from "../Components/Footer";
 import ScrollToTopButton from "@/Components/ScrollToTopButton";
-import { Button } from "@/components/ui/button";
 import { useScroll, useTransform, motion, useInView } from "framer-motion";
 import { useNavigate } from "react-router-dom";
 
