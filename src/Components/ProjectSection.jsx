@@ -20,7 +20,7 @@ import {
   CardHeader,
   CardTitle,
   CardFooter,
-} from "@/components/ui/card";
+} from "../Components/ui/card";
 import {
   Carousel,
   CarouselContent,
