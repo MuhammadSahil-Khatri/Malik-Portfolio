@@ -26,9 +26,9 @@ import {
   CarouselContent,
   CarouselItem,
   useCarousel,
-} from "@/components/ui/carousel";
+} from "../components/ui/carousel";
 import { ChevronLeft, ChevronRight } from "lucide-react";
-import { Button } from "@/components/ui/button";
+import { Button } from "../components/ui/button";
 
 const ProjectsSection = () => {
   const navigate = useNavigate();
