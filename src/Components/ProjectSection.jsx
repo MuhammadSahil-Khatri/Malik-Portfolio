@@ -20,13 +20,13 @@ import {
   CardHeader,
   CardTitle,
   CardFooter,
-} from "../Components/ui/card";
+} from "@/Components/ui/card";
 import {
   Carousel,
   CarouselContent,
   CarouselItem,
   useCarousel,
-} from "../components/ui/carousel";
+} from "@/Components/ui/carousel";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import { Button } from "../components/ui/button";
 
